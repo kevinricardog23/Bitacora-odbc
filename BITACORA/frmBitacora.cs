@@ -11,12 +11,12 @@ using logica;
 
 namespace BITACORA
 {
-    public partial class frmBitacora : Form
+    public partial class Bitacora : Form
     {
 
         capaLogicaBitacora cpl = new capaLogicaBitacora();
 
-        public frmBitacora()
+        public Bitacora()
         {
             InitializeComponent();
         }

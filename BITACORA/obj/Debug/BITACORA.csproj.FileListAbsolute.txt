@@ -25,3 +25,16 @@ C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BI
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.csproj.GenerateResource.Cache
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.dll
 C:\Users\josea\Documents\Visual Studio 2015\Objeto Comun -  BITACORA\BITACORA\BITACORA\obj\Debug\BITACORA.pdb
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\BITACORA.dll
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\BITACORA.pdb
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\logica.dll
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\datos.dll
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\logica.pdb
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\datos.pdb
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\obj\Debug\BITACORA.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\obj\Debug\BITACORA.frmBitacora.resources
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\obj\Debug\BITACORA.csproj.GenerateResource.Cache
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\obj\Debug\BITACORA.dll
+C:\Users\KEVIN\Source\Repos\BitacoraODBC\BITACORA\obj\Debug\BITACORA.pdb
